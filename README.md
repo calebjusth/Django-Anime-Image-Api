@@ -7,7 +7,9 @@ anime image category
 
 # preview
 
-![Uploading Web capture_8-4-2023_141018_localhost.jpeg…]()
+![Web capture_8-4-2023_141055_localhost](https://user-images.githubusercontent.com/79472476/230718898-34f93c54-58a4-4b40-bdba-cdc20c062e26.jpeg)
+![Web capture_8-4-2023_141055_localhost (1)](https://user-images.githubusercontent.com/79472476/230718901-451c2c59-be67-428f-9a97-23e0f021d861.jpeg)
+![Web capture_8-4-2023_141018_localhost](https://user-images.githubusercontent.com/79472476/230718903-44fa1a8a-ab75-4204-97c8-7c99419fad79.jpeg)
 
 # what's next?
 
