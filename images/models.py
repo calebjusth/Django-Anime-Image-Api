@@ -8,6 +8,7 @@ def user_directory_path(instance, filename):
 
 class Category(models.Model):
     name = models.CharField(max_length=200)
+    profile = models.CharField(default='', max_length=500)
 
     def __str__(self):
         return self.name
